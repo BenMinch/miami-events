@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "title": "Coral Gables Gallery Night",
+    "date": "2025-11-23",
+    "city": "Coral Gables",
+    "description": "Walk through the galleries of Coral Gables on the first Friday of the month.",
+    "url": "https://www.coralgables.com/events",
+    "image": "https://images.unsplash.com/photo-1577016600663-3f38093b252d?auto=format&fit=crop&w=800"
+  },
+  {
+    "title": "Coconut Grove Jazz Festival",
+    "date": "2025-11-25",
+    "city": "Coconut Grove",
+    "description": "Live jazz music in Peacock Park.",
+    "url": "https://coconutgrove.com",
+    "image": "https://images.unsplash.com/photo-1511192336575-5a79eb673d1e?auto=format&fit=crop&w=800"
+  },
+  {
+    "title": "Miami Book Fair",
+    "date": "2025-11-28",
+    "city": "Miami",
+    "description": "The nation's finest literary festival.",
+    "url": "https://miamibookfair.com",
+    "image": "https://images.unsplash.com/photo-1529651737248-dad5e287768e?auto=format&fit=crop&w=800"
+  }
+]
